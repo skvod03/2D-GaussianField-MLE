@@ -6,8 +6,9 @@ This project implements Maximum Likelihood Estimation (MLE) for predicting conta
 
 1. Clone this repository.
 2. Install dependencies using:
-
+```
 pip install -r requirements.txt
+```
 Usage
 To use the model, instantiate the class GaussianFieldMLE and call the methods to fit the model and make predictions.
 
